@@ -49,6 +49,7 @@ setup(
         'invoke>=0.13',
         'unidecode',
         'six',
+        'numpy=1.21.0'
     ],
     extras_require={
         'dev': [
